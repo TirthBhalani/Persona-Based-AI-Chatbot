@@ -31,7 +31,7 @@ This application uses the OpenRouter API to deliver deep, nuanced, and structura
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TirthBhalani/Persona-Based-AI-Chatbot
    cd "GenAi ChatBot"
    ```
 

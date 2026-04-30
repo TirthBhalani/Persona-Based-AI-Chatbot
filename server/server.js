@@ -12,6 +12,11 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 5000;
 
+// Health check endpoint
+app.get('/', (req, res) => {
+  res.json({ status: 'ok', message: 'Persona Chatbot Backend is running!' });
+});
+
 app.post('/api/chat', async (req, res) => {
   try {
     const { persona, message, history } = req.body;

@@ -20,8 +20,7 @@ This application uses the OpenRouter API to deliver deep, nuanced, and structura
 - **Graceful Error Handling**: Fallbacks for API errors or empty states.
 
 ## Live Demo
-[Deployed Link Placeholder - update this when deployed]
-
+https://persona-based-ai-chatbot-six.vercel.app/
 ## Setup Instructions
 
 ### Prerequisites
